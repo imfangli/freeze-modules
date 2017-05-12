@@ -15,5 +15,9 @@
     "modules"
   ],
   "author": "Felix",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imfangli/freeze-modules.git"
+  },
   "license": "MIT"
 }
