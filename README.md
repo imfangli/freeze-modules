@@ -3,6 +3,7 @@
 ## Intro
 
 We need freeze node modules version sometimes, such as production environment, so ...
+![freeze](https://i0.hdslb.com/bfs/live/7cf053ea02e01c7c98ec808ba4203bce8771c936.png)
 
 ## Install
 
