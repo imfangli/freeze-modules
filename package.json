@@ -1,10 +1,10 @@
 {
   "name": "freeze-modules",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Freeze node modules version.",
   "main": "./src/freeze.js",
   "bin": {
-    "freeze" : "./src/freeze.js"
+    "freeze": "./src/freeze.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
