@@ -1,6 +1,6 @@
 {
   "name": "freeze-modules",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Freeze node modules version.",
   "main": "./src/freeze.js",
   "bin": {
